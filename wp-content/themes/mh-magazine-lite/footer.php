@@ -24,7 +24,7 @@
 </footer>
 <?php } ?>
 <div class="copyright-wrap">
-	<p class="copyright"><?php echo 'Copyright &copy; ' . date("Y") . ' | WordPress Theme by <a href="http://www.mhthemes.com/" rel="nofollow">MH Themes</a>'; ?></p>
+	<p class="copyright"><?php echo 'Copyright &copy; ' . date("Y") . ' | WordPress Theme modified form <a href="http://www.mhthemes.com/" rel="nofollow">MH Themes</a>'; ?></p>
 </div>
 </div>
 <?php if ($options['tracking_code']) { ?>
